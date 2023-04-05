@@ -108,5 +108,4 @@ coverage
 license.txt
 *.cache
 dist
-build
 .strapi-updater.json
